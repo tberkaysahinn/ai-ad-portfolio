@@ -10,6 +10,12 @@ This portfolio demonstrates my ability to ship **50–300 AI-generated ad varian
 
 ---
 
+## 🎥 Loom Intro (≤3 min)
+https://www.loom.com/share/4a16632d510f4017be163015ee588029
+
+
+---
+
 ## ⚙️ Pipeline (Production Flow)
 ```mermaid
 graph TD;
